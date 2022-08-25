@@ -1,5 +1,5 @@
 # Subject: Medical Information Systems
-# Project: Information system for appointments
+# Project: Information system for appointments in Lazarus
 
 ## Team
 - David Slavíček
