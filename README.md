@@ -24,3 +24,8 @@
 3) Appointment window with required information
 4) Free appointment dates for a day
 ![wewewewewe](https://user-images.githubusercontent.com/62359460/186744533-b370b49d-146d-4b35-a663-d1a4bdf70dcf.png)
+
+## Usage
+1) Download team_12.rar and unpack to a folder
+2) Start patient_appointments.exe
+3) Use presentation for a help
