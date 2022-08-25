@@ -1,4 +1,5 @@
-# Medical Information Systems project: Information system for appointments
+# Subject: Medical Information Systems
+# Project: Information system for appointments
 
 ## Team
 - David Slavíček
